@@ -3,6 +3,12 @@
 ## Overview
 This Python script performs a comprehensive analysis of a stock portfolio using historical data, Monte Carlo simulations, and various financial metrics. It aims to identify the optimal stock from a given portfolio based on risk-adjusted returns.
 
+## Motivating Articles
+
+Zhang, A. (2023). Portfolio Optimization of Stocks–Python-Based Stock Analysis. International Journal of Education and Humanities, 9(2), 32-38.
+
+Wang, Y., Yang, N. Y., & Zhao, Q. (2023, February). Application of Monte Carlo Simulation in Calculating the Maximum Sharpe Ratio Based on American Funds. In Proceedings of the 4th International Conference on Economic Management and Model Engineering, ICEMME 2022, November 18-20, 2022, Nanjing, China.
+
 ## Features
 - Fetches historical stock data from Yahoo Finance
 - Performs Monte Carlo simulations for future stock price predictions
