@@ -31,8 +31,16 @@ This Python script performs a comprehensive analysis of a stock portfolio using 
 ## Output
 The script provides:
 1. A detailed explanation of the optimal stock selection
-2. A plot of Monte Carlo simulations for all stocks
-3. A plot of the optimal stock's price history with trend lines
+
+<img src="optimal_stock_selection_analysis_example.jpg" alt="Portfolio Analysis Result"/>
+
+3. A plot of Monte Carlo simulations for all stocks
+
+<img src="monte_carlo_sim_stocks.jpg" alt="Monte Carlo Simulations"/>
+
+4. A plot of the optimal stock's price history with trend lines
+
+<img src="stock_trend_line_analysis_example.jpg" alt="Stock Trend Line Analysis"/>
 
 ## Importance of Analysis Techniques
 
